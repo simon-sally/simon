@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: myapp
+
+custom:
+  message: "Hello from dev profile!"
